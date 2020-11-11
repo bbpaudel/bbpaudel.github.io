@@ -8,6 +8,9 @@ I am a Postdoc in the Department of Biomedical Engineering at the University of 
 ## Current Interests and Projects:
 
 - Fractional Heterogeneity in Breast Cancer
-- Phenotypic heterogeneity in Melanoma
+- Phenotypic Heterogeneity in Melanoma
+- Nongenetic Mechanisms of Drug Resistance and Tolerance
 - Systems Pharmacology and Drug combination 
 - Metabolic Reprogramming and Drug-Tolerance
+- Tumor Metabolism
+- Cellular Identity
