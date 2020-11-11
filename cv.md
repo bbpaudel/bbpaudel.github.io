@@ -10,9 +10,12 @@ Mentor: Dr. Kevin A. Janes
 
 `2011-2018`
 __The Vanderbilt University__, Nashville, TN
-Doctor of Philosophy (PhD), Chemical and Physical Biology.
+
+Doctor of Philosophy (PhD)
+Chemical and Physical Biology.
 
 `2007-2011`
 __The College of Idaho__, Caldwell, ID
-Bachelor of Science (BS), Chemistry, Mathematics-Physics.
+Bachelor of Science (BS)
+Chemistry, Mathematics-Physics.
 
