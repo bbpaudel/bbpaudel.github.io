@@ -14,4 +14,3 @@ excerpt: "Recent Presentations"
 
 
 # Poster Presentations 
-
