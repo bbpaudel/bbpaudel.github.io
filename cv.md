@@ -18,3 +18,4 @@ __The College of Idaho__, Caldwell, ID
 Bachelor of Science (BS)
 Chemistry, Mathematics-Physics.
 
+[embed]https://drive.google.com/file/d/1ATsePb2dr8Moh5Y9mPK6WeEh3FmtFE-E/view?usp=sharing.pdf[/embed]
