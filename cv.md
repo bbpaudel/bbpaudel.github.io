@@ -10,7 +10,6 @@ Mentor: Dr. Kevin A. Janes
 
 `2011-2018`
 __The Vanderbilt University__, Nashville, TN
-
 Doctor of Philosophy (PhD)
 Chemical and Physical Biology.
 
