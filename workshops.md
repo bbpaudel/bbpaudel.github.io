@@ -4,6 +4,10 @@ title: Workshops
 excerpt: "Recent Workshops"
 ---
 
-# Workshops I've Put Together
+# Recent Seminar and Workshops Attended
+- Systems Approaches to Cancer Biology (SACB) Meeting (Virtual), 2020. 
+- NCI Cancer Systems Biology Consortium (CSBC) Annual Meeting (Virtual), 2020. 
+- NCI CSBC/PSON/BD-STEP Junior Investigators (JI) Annual Meeting (Virtual), 2020. 
 
-- [GitHub Pages Workshop](https://github.com/BioData-Club/githubPagesTutorial)
+
+
