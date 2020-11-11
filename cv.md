@@ -17,4 +17,3 @@ Chemical and Physical Biology.
 __The College of Idaho__, Caldwell, ID
 Bachelor of Science (BS)
 Chemistry, Mathematics-Physics.
-
