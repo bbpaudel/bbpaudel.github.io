@@ -3,10 +3,11 @@ layout: page
 excerpt: "About Me..."
 ---
 
-I am a academic, hear me roar. I am an Assistant Professor at Oregon Health & Science University.
+I am a Postdoc in the Department of Biomedical Engineering at the University of Virginia. My research interest is in cancer systems biology, particularly understanding the origins of cellular heterogeneity, and how it gives rise to different cellular states, cell differentiation, drug resistance, and other emergent population behaviors. 
 
 ## Current Interests and Projects:
 
-- Website Design
-- [GitHub Pages](http://laderast.github.io)
-- Academia
+- Fractional Heterogeneity in Breast Cancer
+- Phenotypic heterogeneity in Melanoma
+- Systems Pharmacology and Drug combination 
+- Metabolic Reprogramming and Drug-Tolerance
