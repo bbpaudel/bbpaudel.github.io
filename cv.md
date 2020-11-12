@@ -1,5 +1,7 @@
 ---
 layout: resume
+title: CV
+excerpt: "education"
 ---
 ## Current Position
 
