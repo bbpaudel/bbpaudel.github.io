@@ -12,10 +12,12 @@ excerpt: "Recent Workshops"
 
 `2019`
 - AACR Annual Meeting. 
+- NCI CSBC/PSON/BD-STEP Junior Investigators (JI) Annual Meeting.
 
 `2018`
 - Systems Approaches to Cancer Biology (SACB.
-- CSBC/PS-ON Junior Investigator Meeting. 
+- NCI CSBC/PS-ON Junior Investigator Meeting. 
+- NCI Cancer Systems Biology Consortium (CSBC) Annual Meeting.
 - Society for Biological Engineering, Cell Therapies and Bioengineering Conference. 
 - 11th Annual International Conference on Systems Biology of Human Diseases (SBHD).
 
