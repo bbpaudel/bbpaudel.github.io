@@ -3,10 +3,15 @@ layout: resume
 title: CV
 excerpt: "education"
 ---
-## Current Position
+## Training
 
+`2019-Present`
 Postdoctoral Research Associate, Department of Biomedical Engineering, __University of Virginia__, Charlottesville, VA. 
-Mentor: Dr. Kevin A. Janes
+_Mentor: Dr. Kevin A. Janes_
+
+`2018-2019`
+Postdoctoral Research Fellow, Department of Biochemistry, __Vanderbilt University__, Nashville, TN. 
+_Mentor: Dr. Vito Quaranta_
 
 ## Education
 
