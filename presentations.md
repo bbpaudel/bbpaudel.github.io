@@ -5,6 +5,10 @@ excerpt: "Presentations"
 ---
 ## Presentations
 
+`2021`
+
+-"A sphingolipid-guided gene expression signature stratifies acute myeloid leukemia prognosis." Mid-Atlantic Postdoc Symposium. (Virtual)
+
 `2020`
 - “An Integrative Gene Expression and Mathematical Flux-Balance Analysis Identifies Targetable Redox Vulnerabilities in Melanoma Cells.” 2020 NCI CSBC Annual Meeting. (Virtual)
 - “Altered Nucleo-Cytoplasmic Transport and Epigenetic States in ERBB-Activated Breast Epithelia.” 2020 NCI CSBC Annual Meeting. (Virtual)
